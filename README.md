@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajashree
 - 🌱 I’m currently learning Djagno
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any python projects
 - 📫 How to reach me rajasreechaiti@gmail.com
 
 <!---
